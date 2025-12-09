@@ -20,7 +20,6 @@ private:
 
 public:
 
-    // конструктори
     Bankomat()
     {
         id = 0;
