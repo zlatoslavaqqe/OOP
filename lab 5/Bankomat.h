@@ -19,7 +19,7 @@ public:
     Bankomat(const Bankomat& other);
     ~Bankomat();
 
-    // Методи
+    //  Методи
     bool Init(int _id, int minW, int maxW);
     void Read();
     void loadCash();

@@ -1,7 +1,7 @@
 #include "Bankomat.h"
 #include <iostream>
 #include <sstream>
-#include <algorithm> // Для функції min
+#include <algorithm> 
 
 using namespace std;
 

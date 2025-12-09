@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>
-#include "Bankomat.h" // Підключаємо наш заголовочний файл
+#include "Bankomat.h" 
 
 using namespace std;
 
